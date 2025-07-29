@@ -99,7 +99,7 @@ def edit_dict(data: Dict[str, Any], prefix: str = "") -> None:
 def main() -> None:
     print("=== Interactive Prompt Builder ===\n")
     print("Loading schema from 'prompt_v1.json'...\n")
-    prompt = load_schema("/Users/alex/Pycha/foto_prompt/files/prompt_v1.json")
+    prompt = load_schema("prompt_v1.json")
 
     while True:
         print("\nTop-level sections:")
@@ -160,7 +160,7 @@ def main() -> None:
     # ------------------------------------------------------------------
     # 4) Write to file
     # ------------------------------------------------------------------
-    outfile = "prompt_out.json"
+    outfile = "prompt_prof_output.json"
     with open(outfile, "w", encoding="utf-8") as f:
         json.dump(prompt, f, indent=2, ensure_ascii=False)
     print(f"\n✅ Prompt saved to {outfile}")

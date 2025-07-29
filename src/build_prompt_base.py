@@ -74,8 +74,8 @@ def prompt_fields_in_section(section, section_data):
 
 
 def main():
-    input_filename = "/Users/alex/Pycha/foto_prompt/files/base.json"
-    output_filename = "prompt_simple.json"
+    input_filename = "/base.json"
+    output_filename = "prompt_basic.json"
 
     if not os.path.exists(input_filename):
         print(f"Input file '{input_filename}' not found.")

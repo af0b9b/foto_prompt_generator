@@ -1,0 +1,467 @@
+{
+  "schemaVersion": "1.1",
+  "meta": {
+    "promptId": "IMG_2025_001",
+    "title": "Portrait Session - Young Woman on Balcony",
+    "tags": ["portrait", "urban", "lifestyle", "natural-light"],
+    "fileFormat": "PNG",
+    "aspectRatio": "3:4",
+    "orientation": "portrait",
+    "colorProfile": "sRGB IEC61966-2.1",
+    "dpi": 300,
+    "schemaVersion": "1.1",
+    "createdAt": "2025-07-26T13:00:00Z",
+    "updatedAt": "2025-07-26T13:00:00Z",
+    "generationSeed": 123456789,
+    "version": "v1.0",
+    "author": "user",
+    "category": "portrait"
+  },
+  "camera": {
+    "brand": "Canon",
+    "model": "EOS R5",
+    "sensorFormat": "full-frame",
+    "sensorSize": "36x24mm",
+    "lensType": "prime",
+    "lensModel": "Canon RF 50mm f/1.2L",
+    "focalLength": "50mm",
+    "aperture": "f/2.8",
+    "shutterSpeed": "1/250s",
+    "iso": 100,
+    "whiteBalance": "daylight",
+    "meteringMode": "evaluative",
+    "focusMode": "single-point AF",
+    "imageStabilization": true,
+    "angle": "eye-level",
+    "perspective": "third-person",
+    "captureType": "portrait",
+    "cameraMovement": "static",
+    "distanceFromSubject": "2.5m",
+    "viewAngle": "normal",
+    "captureTypeOptions": [
+      "portrait",
+      "landscape",
+      "action",
+      "macro",
+      "product",
+      "street",
+      "architectural"
+    ],
+    "focalLengthRange": "35–85mm",
+    "apertureRange": "f/1.4–f/5.6",
+    "qualitySettings": {
+      "compressionRatio": "minimal",
+      "noiseReduction": "standard",
+      "sharpness": "+1"
+    }
+  },
+  "subjects": [
+    {
+      "subjectId": "S1",
+      "role": "main",
+      "priority": 1,
+      "descriptor": "young East Asian woman",
+      "ageGroup": "young-adult",
+      "ageRange": "22-28",
+      "genderPresentation": "female",
+      "ethnicity": "East Asian",
+      "skinTone": "medium",
+      "complexion": "clear, natural",
+      "hairStyle": "long, messy and voluminous",
+      "hairColor": "dark brown",
+      "hairTexture": "wavy",
+      "eyeColor": "dark brown",
+      "eyeShape": "almond",
+      "facialStructure": "oval face, defined cheekbones",
+      "bodyType": "slim, average height",
+      "height": "165cm",
+      "emotion": {
+        "type": "introspective",
+        "intensity": 40,
+        "subEmotions": ["contemplative", "peaceful"],
+        "energyLevel": "calm"
+      },
+      "pose": {
+        "primary": "standing casually on balcony",
+        "details": "weight on one leg, head tilted slightly",
+        "posture": "relaxed",
+        "armPosition": "natural at sides",
+        "legPosition": "one hip popped",
+        "shoulderPosition": "relaxed"
+      },
+      "gaze": "towards camera",
+      "gazeIntensity": "soft",
+      "eyeContact": "direct but gentle",
+      "gestures": [],
+      "attire": {
+        "top": "oversized plain white t-shirt",
+        "bottom": "light shorts",
+        "style": "casual, minimalist",
+        "fit": "relaxed",
+        "condition": "clean, well-maintained",
+        "layering": "single layer"
+      },
+      "accessories": "none",
+      "makeup": {
+        "style": "natural",
+        "intensity": "minimal",
+        "details": ["clear skin", "natural lip color"]
+      },
+      "framing": "waist-up",
+      "bodyOrientation": "forward",
+      "headOrientation": "slight tilt right",
+      "anchor": "rule-of-thirds/right",
+      "scale": 0.55,
+      "depthOrder": 1,
+      "keyLightSide": "left",
+      "shadowSide": "right",
+      "interactionWith": [],
+      "interactionType": null,
+      "facialExpression": {
+        "mouth": "neutral, slight smile",
+        "eyes": "soft, engaging",
+        "eyebrows": "relaxed",
+        "overall": "serene, approachable"
+      },
+      "microExpressions": ["subtle contentment"],
+      "movementHint": "still, contemplative moment"
+    }
+  ],
+  "composition": {
+    "framingRules": [
+      "rule-of-thirds",
+      "natural framing with balcony railing"
+    ],
+    "primarySubject": "S1",
+    "secondaryElements": [
+      "urban background",
+      "balcony railing",
+      "architectural details"
+    ],
+    "balance": "subject-dominant",
+    "visualWeight": "70% subject, 30% environment",
+    "depthOfField": "shallow",
+    "bokehQuality": "creamy, circular",
+    "focusPoint": "eyes",
+    "leadingLines": false,
+    "symmetry": "none",
+    "geometricShapes": ["horizontal lines from railing", "vertical lines from buildings"],
+    "negativeSpace": "balanced",
+    "cropMargins": {
+      "top": "10%",
+      "bottom": "5%",
+      "left": "15%",
+      "right": "15%"
+    },
+    "aspectRatioConsiderations": "portrait orientation emphasizes subject verticality"
+  },
+  "setting": {
+    "environment": "apartment balcony",
+    "environmentType": "urban residential",
+    "timeOfDay": "afternoon",
+    "timeRange": "14:00-16:00",
+    "weather": "sunny",
+    "weatherDetails": "clear sky, light breeze",
+    "temperature": "warm",
+    "architecture": "city apartment buildings",
+    "architecturalStyle": "modern European",
+    "cityscape": "Bologna, Italy",
+    "foregroundElements": [
+      "balcony railing",
+      "balcony floor tiles"
+    ],
+    "middlegroundElements": [
+      "subject",
+      "immediate balcony space"
+    ],
+    "backgroundElements": [
+      "distant power lines",
+      "soft urban skyline",
+      "neighboring buildings",
+      "sky"
+    ],
+    "season": "summer",
+    "seasonalIndicators": ["bright light", "warm atmosphere"],
+    "locationHint": "Bologna, IT",
+    "altitude": "3rd floor",
+    "viewDirection": "city view",
+    "ambientSounds": ["distant traffic", "urban atmosphere"],
+    "airQuality": "clear",
+    "contextualElements": {
+      "culturalMarkers": ["European urban architecture"],
+      "timeMarkers": ["modern residential building"],
+      "socialMarkers": ["middle-class living space"]
+    }
+  },
+  "lighting": {
+    "lightingSetup": "natural daylight",
+    "primarySources": [
+      {
+        "sourceId": "L1",
+        "type": "natural",
+        "source": "sun",
+        "direction": "high-side",
+        "angle": "45 degrees from left",
+        "intensity": "medium",
+        "intensityValue": 65,
+        "colorTemperature": "5500K",
+        "colorTemperatureDesc": "warm daylight",
+        "quality": "soft",
+        "qualityDetails": "diffused by atmospheric haze",
+        "hardness": 30,
+        "shadowType": "soft shadows",
+        "effects": [
+          "subtle bloom",
+          "rim lighting on hair"
+        ],
+        "role": "key",
+        "coverage": "75% of subject"
+      }
+    ],
+    "fillLight": {
+      "type": "environmental",
+      "source": "sky reflection",
+      "intensity": 25,
+      "direction": "front-right",
+      "color": "cool blue"
+    },
+    "ambientLight": {
+      "intensity": 40,
+      "source": "open sky",
+      "color": "neutral"
+    },
+    "overallMood": "balanced contrast",
+    "lightingRatio": "3:1",
+    "moodLink": "style.mood",
+    "shadowDetails": {
+      "density": "medium",
+      "edges": "soft",
+      "direction": "consistent with key light"
+    },
+    "highlights": {
+      "preservation": "good",
+      "rolloff": "gradual",
+      "clipping": "minimal"
+    },
+    "lightingChallenges": ["avoiding harsh shadows", "maintaining skin tone accuracy"],
+    "postProcessingHints": ["lift shadows slightly", "preserve highlight detail"]
+  },
+  "style": {
+    "artDirection": [
+      "cinematic",
+      "documentary",
+      "contemporary realism"
+    ],
+    "photographyStyle": "lifestyle portrait",
+    "mood": [
+      "calm",
+      "intimate",
+      "authentic"
+    ],
+    "moodIntensity": 60,
+    "aestheticInfluences": ["modern portraiture", "lifestyle photography"],
+    "contrastLevel": "medium",
+    "contrastValue": 55,
+    "colorTone": "neutral",
+    "colorTemperature": "slightly warm",
+    "texture": "clean",
+    "textureDetails": "smooth skin, fabric texture visible",
+    "dynamicRange": "balanced",
+    "postProcessingStyle": "natural, minimal editing",
+    "filmEmulation": "none",
+    "vintageEffect": "none",
+    "references": [
+      "https://example.com/lookbook1",
+      "https://example.com/lookbook2"
+    ],
+    "inspirationKeywords": ["authentic", "natural beauty", "urban lifestyle"],
+    "avoidKeywords": ["overly stylized", "artificial", "heavily processed"]
+  },
+  "rendering": {
+    "engine": [
+      "AI-photorealistic renderer"
+    ],
+    "primaryEngine": "Midjourney v6",
+    "fallbackEngines": [
+      "DALL-E 3",
+      "Stable Diffusion XL",
+      "Stable Diffusion 3"
+    ],
+    "engineSpecificSettings": {
+      "midjourney": {
+        "version": "6.0",
+        "stylize": 500,
+        "chaos": 10,
+        "quality": 2
+      },
+      "dalle": {
+        "version": "3",
+        "quality": "hd",
+        "style": "natural"
+      },
+      "stablediffusion": {
+        "model": "SDXL",
+        "steps": 50,
+        "cfg_scale": 7
+      },
+      "gpt4": {
+        "version": "4.5",
+        "maxTokens": 4000,
+        "temperature": 0.7,
+        "topP": 0.9
+      },
+      "sora": {
+        "version": "1.0",
+        "animationSupport": true,
+        "frameRate": 30,
+        "resolution": "4K"
+      }
+    },
+    "lookPreset": [
+      "film",
+      "soft-focus",
+      "natural color grading"
+    ],
+    "fidelitySpec": {
+      "sharpness": "medium",
+      "sharpnessValue": 60,
+      "grain": "low",
+      "grainValue": 15,
+      "depth": "realistic",
+      "detail": "high",
+      "skinTexture": "natural, pore-level detail",
+      "fabricTexture": "visible weave on clothing"
+    },
+    "colorGradingProfile": "warm highlights, cool shadows",
+    "colorGradingIntensity": 40,
+    "exportFormats": [
+      "PNG",
+      "JPEG"
+    ],
+    "resolutionTarget": "4K",
+    "resolutionPx": "3072x4096",
+    "compressionQuality": 95,
+    "bitDepth": "8-bit",
+    "renderTime": "estimated 60-120 seconds",
+    "iterations": 1,
+    "upscalingMethod": "AI-enhanced",
+    "qualityAssurance": {
+      "facialAccuracy": "high priority",
+      "anatomicalCorrectness": "required",
+      "lightingConsistency": "required"
+    }
+  },
+  "colorPlate": {
+    "colorScheme": "natural, harmonious",
+    "primaryColors": [
+      {
+        "name": "Bright White (shirt)",
+        "hex": "#F5F5F5",
+        "rgb": "245, 245, 245",
+        "percentage": 30,
+        "role": "dominant neutral",
+        "lightingInteraction": "reflects ambient light"
+      },
+      {
+        "name": "Warm Skin Tones",
+        "hex": "#E0BBAA",
+        "rgb": "224, 187, 170",
+        "percentage": 25,
+        "role": "subject focal point",
+        "lightingInteraction": "warm key light enhancement"
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#87CEEB",
+        "rgb": "135, 206, 235",
+        "percentage": 20,
+        "role": "background harmony",
+        "lightingInteraction": "natural sky reflection"
+      }
+    ],
+    "accentColors": [
+      {
+        "name": "Dark Brown/Black (hair)",
+        "hex": "#3D2B1F",
+        "rgb": "61, 43, 31",
+        "percentage": 15,
+        "role": "contrast anchor",
+        "lightingInteraction": "subtle rim lighting"
+      },
+      {
+        "name": "Shadow Blue/Gray",
+        "hex": "#778899",
+        "rgb": "119, 136, 153",
+        "percentage": 10,
+        "role": "depth and dimension",
+        "lightingInteraction": "cool shadow tones"
+      }
+    ],
+    "colorHarmony": "complementary",
+    "colorTemperature": "neutral-warm",
+    "saturationLevel": "medium",
+    "saturationValue": 60,
+    "contrastWithLighting": "balanced",
+    "dominantColor": "#E0BBAA",
+    "colorMoodAlignment": "calm, natural",
+    "colorAccessibility": "WCAG AA compliant contrasts",
+    "seasonalAppropriate": true,
+    "culturalConsiderations": "universally appropriate"
+  },
+  "quality": {
+    "technicalRequirements": {
+      "minResolution": "2048x2732",
+      "maxFileSize": "50MB",
+      "colorDepth": "8-bit minimum",
+      "compressionArtifacts": "none visible",
+      "noiseLevel": "minimal"
+    },
+    "aestheticRequirements": {
+      "facialClarity": "sharp focus on eyes",
+      "skinRendering": "natural texture, no artificial smoothing",
+      "lightingNaturalness": "physically plausible",
+      "colorAccuracy": "true to life",
+      "compositionBalance": "visually pleasing"
+    },
+    "constraintsAndAvoidances": {
+      "avoid": [
+        "artificial HDR look",
+        "over-saturated colors",
+        "plastic skin appearance",
+        "unnatural eye contact",
+        "distorted proportions",
+        "visible AI artifacts",
+        "inconsistent lighting"
+      ],
+      "ensure": [
+        "natural skin texture",
+        "proper hand/finger anatomy",
+        "consistent shadows",
+        "believable fabric draping",
+        "authentic facial expressions"
+      ]
+    }
+  },
+  "variations": {
+    "alternativeAngles": ["slight profile", "looking away"],
+    "alternativeExpressions": ["genuine smile", "more serious"],
+    "alternativeLighting": ["golden hour", "overcast"],
+    "alternativeCompositions": ["full body", "close-up portrait"],
+    "seedModifications": [
+      {"parameter": "emotion.intensity", "range": "30-70"},
+      {"parameter": "lighting.intensity", "range": "50-80"},
+      {"parameter": "style.contrastLevel", "options": ["low", "medium", "high"]}
+    ]
+  },
+  "metadata": {
+    "usage": "AI image generation prompt",
+    "compatibleEngines": ["Midjourney", "DALL-E", "Stable Diffusion", "GPT-4", "Sora"],
+    "promptComplexity": "high",
+    "estimatedTokens": 2500,
+    "processingTime": "2-5 minutes",
+    "lastTested": "2025-07-26",
+    "successRate": "85%",
+    "commonIssues": ["occasionally too stylized", "rare anatomical inconsistencies"],
+    "optimizationNotes": "works best with realistic models, may need style adjustments for artistic models"
+  }
+}

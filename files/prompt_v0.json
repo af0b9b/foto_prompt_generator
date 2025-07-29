@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.0",
+  "meta": {
+    "promptPrefix": "IMG_2025",
+    "fileFormat": "PNG",
+    "aspectRatio": "3:4",
+    "orientation": "portrait",
+    "colorProfile": "sRGB IEC61966-2.1",
+    "dpi": 300,
+    "schemaVersion": "1.0",
+    "createdAt": "2025-07-26T13:00:00Z",
+    "generationSeed": 123456789
+  },
+  "camera": {
+    "sensorFormat": "full-frame",
+    "lensType": "prime",
+    "focalLength": "50mm",
+    "aperture": "f/2.8",
+    "shutterSpeed": "1/250s",
+    "iso": 100,
+    "whiteBalance": "daylight",
+    "angle": "eye-level",
+    "perspective": "third-person",
+    "focusMode": "auto",
+    "captureType": "portrait",
+    "cameraMovement": "static",
+    "captureTypeOptions": [
+      "portrait",
+      "landscape",
+      "action",
+      "macro",
+      "product"
+    ],
+    "focalLengthRange": "35–85mm",
+    "apertureRange": "f/2.8–f/5.6"
+  },
+  "subjects": [
+    {
+      "subjectId": "S1",
+      "role": "main",
+      "descriptor": "young East Asian woman",
+      "ageGroup": "young-adult",
+      "genderPresentation": "female",
+      "skinTone": "medium",
+      "hairStyle": "long, messy and voluminous",
+      "emotion": {
+        "type": "introspective",
+        "intensity": 40
+      },
+      "pose": "standing casually on a balcony, weight on one leg, head tilted slightly",
+      "gaze": "towards camera",
+      "gestures": [],
+      "attire": "oversized plain white t-shirt, light shorts",
+      "accessories": "none",
+      "framing": "waist-up",
+      "bodyOrientation": "forward",
+      "headOrientation": "slight tilt right",
+      "anchor": "rule-of-thirds/right",
+      "scale": 0.55,
+      "depthOrder": 1,
+      "keyLightSide": "left",
+      "interactionWith": [],
+      "interactionType": null,
+      "facialExpression": "neutral mouth, slight smile"
+    }
+  ],
+  "composition": {
+    "framingRules": [
+      "rule-of-thirds",
+      "natural framing with balcony railing"
+    ],
+    "primarySubject": "S1",
+    "secondaryElements": [
+      "urban background",
+      "balcony railing"
+    ],
+    "balance": "subject-dominant",
+    "depthOfField": "shallow",
+    "leadingLines": false,
+    "symmetry": "none"
+  },
+  "setting": {
+    "environment": "apartment balcony",
+    "timeOfDay": "afternoon",
+    "weather": "sunny",
+    "architecture": "city apartment buildings",
+    "foregroundElements": [
+      "balcony railing"
+    ],
+    "backgroundElements": [
+      "distant power lines",
+      "soft urban skyline"
+    ],
+    "season": "summer",
+    "locationHint": "Bologna, IT"
+  },
+  "lighting": {
+    "sources": [
+      {
+        "type": "natural",
+        "direction": "high-side",
+        "intensity": "medium",
+        "colorTemperature": "warm",
+        "quality": "soft",
+        "effects": [
+          "subtle bloom"
+        ],
+        "role": "key"
+      }
+    ],
+    "overallMood": "balanced contrast",
+    "moodLink": "style.mood"
+  },
+  "style": {
+    "artDirection": [
+      "cinematic",
+      "documentary"
+    ],
+    "mood": [
+      "calm",
+      "intimate"
+    ],
+    "contrastLevel": "medium",
+    "colorTone": "neutral",
+    "texture": "clean",
+    "dynamicRange": "balanced",
+    "references": [
+      "https://example.com/lookbook1",
+      "https://example.com/lookbook2"
+    ]
+  },
+  "rendering": {
+    "engine": [
+      "AI-photorealistic renderer"
+    ],
+    "fallbackEngines": [
+      "MJ v6",
+      "StableDiffusion XL"
+    ],
+    "lookPreset": [
+      "film",
+      "soft-focus"
+    ],
+    "fidelitySpec": {
+      "sharpness": "medium",
+      "grain": "low",
+      "depth": "realistic"
+    },
+    "colorGradingProfile": "warm highlights, cool shadows",
+    "exportFormats": [
+      "PNG"
+    ],
+    "resolutionTarget": "4K"
+  },
+  "colorPlate": {
+    "primaryColors": [
+      {
+        "name": "Bright White (shirt)",
+        "hex": "#F5F5F5",
+        "percentage": 30
+      },
+      {
+        "name": "Warm Skin Tones",
+        "hex": "#E0BBAA",
+        "percentage": 25
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#87CEEB",
+        "percentage": 20
+      }
+    ],
+    "accentColors": [
+      {
+        "name": "Dark Brown/Black (hair)",
+        "hex": "#3D2B1F",
+        "percentage": 15
+      },
+      {
+        "name": "Shadow Blue/Gray",
+        "hex": "#778899",
+        "percentage": 10
+      }
+    ],
+    "colorHarmony": "complementary",
+    "saturationLevel": "medium",
+    "contrastWithLighting": "balanced",
+    "dominantColor": "#E0BBAA"
+  }
+}

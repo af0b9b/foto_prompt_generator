@@ -1,0 +1,115 @@
+{
+
+"meta": {
+
+"styleName": "Candid Balcony Sunlight",
+
+"aspectRatio": "3:4",
+
+"promptPrefix": "IMG_2025.JPG"
+
+},
+
+"camera": {
+
+"model": "35mm film camera (e.g., Canon AE-1, Olympus OM-1)",
+
+"focalLength": "standard prime lens (e.g., 50mm)",
+
+"angle": "slightly low-angle shot, looking up at the subject",
+
+"type": "candid portrait photography"
+
+},
+
+"subject": {
+
+"primary": "a young East Asian woman",
+
+"emotion": "a soft, natural, and slightly introspective expression",
+
+"pose": "standing casually on a balcony, body angled with one hip pushed out, head tilted slightly",
+
+"gaze": "looking towards the camera"
+
+},
+
+"character": {
+
+"appearance": "long, dark, messy and voluminous hair, natural 'no-makeup' look",
+
+"wardrobe": "an oversized, plain white t-shirt and simple light-colored underwear or bikini bottoms",
+
+"accessories": "none"
+
+},
+
+"composition": {
+
+"theory": "natural framing using the balcony railing, rule of thirds, candid moment capture",
+
+"visualHierarchy": "The subject is the primary focus, with the urban background providing environmental context."
+
+},
+
+"setting": {
+
+"environment": "an apartment balcony on a sunny day",
+
+"architecture": "generic city apartment buildings and power lines visible in the hazy background",
+
+"furniture": "simple balcony railing in the foreground"
+
+},
+
+"lighting": {
+
+"source": "direct, natural afternoon sunlight",
+
+"direction": "high side lighting",
+
+"quality": "harsh and high-contrast, creating bright, almost blown-out highlights on the skin and clothing, with deep, defined shadows. The overall light has a warm, golden quality."
+
+},
+
+"style": {
+
+"artDirection": "lo-fi, vintage, slice-of-life, reminiscent of Japanese or Korean indie film aesthetics",
+
+"mood": "nostalgic, intimate, lazy, dreamy, and sun-drenched"
+
+},
+
+"rendering": {
+
+"engine": "emulation of vintage 35mm color film",
+
+"fidelitySpec": "visible film grain, soft focus (not digitally sharp), and halation or bloom in the highlights",
+
+"postProcessing": "color grading to mimic a vintage film stock, featuring slightly washed-out colors, a warm yellow or greenish cast, and cool tones in the shadows"
+
+},
+
+"colorPlate": {
+
+"primaryColors": [
+
+{"name": "Bright White (shirt)", "hex": "#F5F5F5", "percentage": "30%"},
+
+{"name": "Warm Skin Tones", "hex": "#E0BBAA", "percentage": "25%"},
+
+{"name": "Sky Blue", "hex": "#87CEEB", "percentage": "20%"}
+
+],
+
+"accentColors": [
+
+{"name": "Dark Brown/Black (hair)", "hex": "#3D2B1F", "percentage": "15%"},
+
+{"name": "Shadow Blue/Gray", "hex": "#778899", "percentage": "10%"}
+
+]
+
+}
+
+}
